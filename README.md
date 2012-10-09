@@ -5,10 +5,10 @@ developed at
 [https://www.131002.net/siphash/](https://www.131002.net/siphash/)
 could have been realized in practice. The code presented here breaks
 MurmurHash 2 and 3 in real-life situations, serving as a scary example
-for how relatively easily countermeasures for the original hashDoS 
-vulnerability, presented by Klink and Waelde at 28C3, can be circumvented,
-ultimately leading to valid DoS attacks on software being frequently 
-used today.
+for how relatively easily countermeasures installed after the presentation
+of the original "hashDoS" vulnerability by Klink and Waelde at 28C3 can be
+circumvented, ultimately leading to valid DoS attacks on software being 
+frequently used today.
 
 ### Purpose
 The intention is to raise the level of awareness and to demonstrate that 
